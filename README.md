@@ -1,2 +1,3 @@
 # FileChecker 
-# Allows user to search a folder for a specific string and/or a specific value and then compare them.
+# Allows user to search a folder for a specific string and an associated value with that string
+#Then compares the values and returns the lowest with the file it is in
